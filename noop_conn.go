@@ -1,4 +1,4 @@
-package net2
+package gotesthelpers
 
 import (
 	"net"
